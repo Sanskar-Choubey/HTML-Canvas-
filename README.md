@@ -10,6 +10,6 @@ This simple project will demonstrate few basic understanding
   <li>What is HSL(Hue,Saturation and Lightness) and how to implement it</li>
  </uL>
  
- #Hope you like this.This is just the beginning many more to come.
+ ## Hope you like this.This is just the beginning many more to come.
  
  
